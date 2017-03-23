@@ -1,3 +1,5 @@
+
+# execute following code in python2
 import string as s
 import random as rm
 
