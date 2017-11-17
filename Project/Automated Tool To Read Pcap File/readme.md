@@ -1,3 +1,3 @@
 EXECUTION STEPS:
 
-$ python3 
+$ python3 AutomatedTool.py
