@@ -9,7 +9,7 @@ you can get it from [here](https://www.python.org/downloads/)
 
 ___
 
-### STEPS for Execution : 
+### Steps for Execution : 
 ##### Step 1 : `$ python2 queen.py`
 or
 ##### Step 2 : `$ python2 scriptForQueen.py`
