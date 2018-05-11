@@ -12,11 +12,11 @@ These programs are for conversion of _**Moore machine to Mealy machine**_ and fo
 ___
 
 ### Requirenments : 
-##### 1. Python2
+##### 1. Python3
 you can get it from [here](https://www.python.org/downloads/)
 
 ___
 
 ### Steps for Execution : 
-1. For * Moore machine to Mealy machine * : $ python2 
-2. For * Melay machine to Moore machine * : $ python2 
+1. For * Moore machine to Mealy machine * : `$ python3 MooreToMealy.py`
+2. For * Melay machine to Moore machine * : `$ python3 MealyToMoore.py`
