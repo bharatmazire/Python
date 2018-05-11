@@ -1,4 +1,4 @@
-## Moore-Mealy Coversion
+## Moore-Mealy Conversion
 
 #### About Moore Machine
 >In the theory of computation, a Moore machine is a finite-state machine whose output values are determined only by its current state. This is in contrast to a Mealy machine, whose output values are determined both by its current state and by the values of its inputs.
