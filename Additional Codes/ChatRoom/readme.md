@@ -1,11 +1,8 @@
-*** UNDER WORK ***
+## CHAT ROOM
 
-This is kind of client-server application.
-This is client to client messaging program where msg is sent through server.
+### *** UNDER WORK ***
 
-work flow will be : 
-server start -> clients connect to server -> server maintain their records -> client send msg and receivers name 
--> if receiver present msg send to receiver else send msg to sender that receiver not available
+This is typical client server program where server serves the request coming from clients.
+Communication between client to client. Where server plays role of intermediator.
 
-use signals wisely
-
+>use socket, signals, multi-threading etc.
