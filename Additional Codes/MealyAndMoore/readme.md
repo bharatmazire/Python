@@ -18,5 +18,5 @@ you can get it from [here](https://www.python.org/downloads/)
 ___
 
 ### Steps for Execution : 
-1. For * Moore machine to Mealy machine * : `$ python3 MooreToMealy.py`
-2. For * Melay machine to Moore machine * : `$ python3 MealyToMoore.py`
+1. For *Moore machine to Mealy machine* : `$ python3 MooreToMealy.py`
+2. For *Melay machine to Moore machine* : `$ python3 MealyToMoore.py`
