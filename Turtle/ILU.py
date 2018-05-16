@@ -22,7 +22,6 @@ def i():
 def heart():
 	t1 = turtle.Pen()
 	t2 = turtle.Pen()
-#	turtle.bgcolor('black')
 	t1.pencolor('red')
 	t2.pencolor('red')
 	t1.width(1)
