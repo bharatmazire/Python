@@ -7,7 +7,6 @@ import turtle
 import time
 #import thread as thrd
 
-#turtle.bgcolor('black')
 def i():
 	t0 = turtle.Pen()
 	t0.pencolor('black')
@@ -63,29 +62,33 @@ def main():
 #	thrd.start_new_thread(i)
 #	thrd.start_new_thread(heart)
 #	thrd.start_new_thread(u)
-	#t1.start()
-	#t2.start()
-	#t3.start()
-
-	#t1.join()
-	#t2.join()
-	#t3.join()
-	i()
-	heart()
-	u()
-	time.sleep(3)
-
-
-if __name__ == '__main__':
-	main()
-#	turtle.bgcolor('black')
-#	t1 = thrd.Thread(target=i)
-#	t2 = thrd.Thread(target=heart)
-#	t3 = thrd.Thread(target=u)
 #	t1.start()
 #	t2.start()
 #	t3.start()
-#
+
+#	t1.join()
+#	t2.join()
+#	t3.join()
+	
+	# draw I
+	i()
+	# draw HEART <3
+	heart()
+	# draw U
+	u()
+	# sleep for while
+	time.sleep(3)
+
+if __name__ == '__main__':
+	main()
+#	t1 = thrd.Thread(target=i)
+#	t2 = thrd.Thread(target=heart)
+#	t3 = thrd.Thread(target=u)
+
+#	t1.start()
+#	t2.start()
+#	t3.start()
+
 #	t1.join()
 #	t2.join()
 #	t3.join()
