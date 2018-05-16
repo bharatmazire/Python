@@ -1,3 +1,8 @@
+#
+#	remaining part : use threads to run each function
+#			 so it will generate each letter seperatly
+#
+
 import turtle
 import time
 #import thread as thrd
