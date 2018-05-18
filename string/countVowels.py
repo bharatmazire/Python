@@ -4,7 +4,7 @@
 
 '''
 # code below is without any function
-# to run this comment out from line 30 to 43
+# to run this code, comment out from line 30 to 43
 
 choice = "y"
 
