@@ -1,7 +1,11 @@
 #!/usr/bin/python
 
-# problem statement : write a program which will accept the input from the user + print it and then it count the vowels and consequents from it
+# problem statement : write a program which will accept the input from the user print it and then it count the vowels and consequents from it.
+
 '''
+# code below is without any function
+# to run this comment out from line 30 to 43
+
 choice = "y"
 
 while choice == "y":
@@ -22,8 +26,7 @@ while choice == "y":
 	
 	choice = input("do you want to check it again? press y to yes : ")
 '''
-# above is whitout function call
-'''for menu import '''
+
 def cnt_vowel(s):
 	cnt_v = 0
 	cnt_c = 0
@@ -33,8 +36,8 @@ def cnt_vowel(s):
 		else:
 			cnt_c += 1
 	print ("{} no. of vowels and {} no. of consonels ".format(cnt_v,cnt_c))
-'''for menu'''
 
 if __name__ == '__main__':
 	s1 = input("enter string 1 : ")
 	cnt_vowel(s1)
+	
