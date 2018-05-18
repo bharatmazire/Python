@@ -4,4 +4,4 @@ Here you can find some **basic string assignments**. This will help you for unde
 
 
 For more you can always try:
-`>>> help(str)`
+> >>> help(str)
