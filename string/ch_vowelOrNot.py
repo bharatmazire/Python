@@ -1,8 +1,6 @@
-#!/usr/bin/usr
+#!/usr/bin/python
 
-#python3 or python
-
-# problem statement : write a program to accept a character and cheeack whether it is vowel or not . ++ ask it for multiple times
+# problem statement : write a program to accept a character and cheeack whether it is vowel or not .
 
 choice = 1
 
@@ -10,7 +8,7 @@ while choice == 1:
 	ch = input("enter character to check : ")
 	vowel = {'a','e','i','o','u'}
 
-	if ch in vowel:		# or if ch in "aeiou":									# it will check in the list whether that perticular element is present or not
+	if ch in vowel:					# [or if ch in "aeiou": ] it will check in the list whether that perticular element is present or not
 		print ("{} is vowel ".format(ch))
 	else:
 		print (ch," is not vowel ")
