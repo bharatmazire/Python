@@ -1,12 +1,11 @@
 import turtle
 
-turtle.color('brown')
+turtle.color('brown')       # setting color to brown
 
-turtle.begin_fill()
-counter = 0
-while counter < 4:
-  turtle.forward(100)
-  turtle.left(90)
-  counter = counter + 1
+turtle.begin_fill()         # start filling color
 
-turtle.end_fill()
+for i in range(4):          # settign loop
+  turtle.forward(100)       # forwarding with distance 100
+  turtle.left(90)           # moving head to left 90 degree
+  
+turtle.end_fill()           # filling color stop
