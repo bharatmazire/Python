@@ -68,7 +68,7 @@ def main():
 #	t1.join()
 #	t2.join()
 #	t3.join()
-	
+
 	# draw I
 	i()
 	# draw HEART <3
@@ -83,11 +83,9 @@ if __name__ == '__main__':
 #	t1 = thrd.Thread(target=i)
 #	t2 = thrd.Thread(target=heart)
 #	t3 = thrd.Thread(target=u)
-
 #	t1.start()
 #	t2.start()
 #	t3.start()
-
 #	t1.join()
 #	t2.join()
 #	t3.join()

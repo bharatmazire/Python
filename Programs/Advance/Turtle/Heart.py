@@ -2,7 +2,6 @@
 import turtle
 import time
 
-
 # initializing pen
 t1 = turtle.Pen()
 t2 = turtle.Pen()
