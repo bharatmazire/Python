@@ -1,4 +1,0 @@
-'''
-client side program
-
-'''
