@@ -1,6 +1,6 @@
 ## Assignment
 
-In this directory you can find following assignments:
+**In this directory you can find following assignments:**
 1. 8 Queen Problem
 2. Booths Multiplication
 3. Melay And Moore
