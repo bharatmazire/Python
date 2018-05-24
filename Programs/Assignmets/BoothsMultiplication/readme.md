@@ -11,11 +11,11 @@ The representations of the multiplicand and product are not specified; typically
 The algorithm is often described as converting strings of 1s in the multiplier to a high-order +1 and a low-order −1 at the ends of the string. When a string runs through the MSB, there is no high-order +1, and the net effect is interpretation as a negative of the appropriate value.
 
 ___
-> For more help [click here..](https://en.wikipedia.org/wiki/Booth%27s_multiplication_algorithm)
+> For more help *[click here..]*(https://en.wikipedia.org/wiki/Booth%27s_multiplication_algorithm)
 
 ___
 ### Requirenmtns :
-> 1. Python3
+1. Python3
 
 ### Execution Step:
-> $ python3 BoothsMultiplication.py
+> *$ python3 BoothsMultiplication.py*
