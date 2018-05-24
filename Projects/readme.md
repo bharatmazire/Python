@@ -3,6 +3,8 @@
 Here you can find some links of projects.
 This are some basic python projects which are easy to understand.
 
+Simply click on project, you will be redirected towards respective directory.
+
 List of Projects : 
 1. [Tool for reading ".pcap" file](https://github.com/bharatmazire/ReadPcap)
 2. [Cryptography and Steganography using python](https://github.com/bharatmazire/CryptoSteganography)
