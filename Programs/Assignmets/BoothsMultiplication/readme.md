@@ -15,7 +15,7 @@ ___
 
 ___
 ### Requirenmtns :
-> 1. Python
+> 1. Python3
 
 ### Execution Step:
-> $ python BoothsMultiplication.py
+> $ python3 BoothsMultiplication.py
