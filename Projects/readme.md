@@ -1,7 +1,8 @@
 ## Projects
 
 Here you can find some links of projects.
-This are some basic python projects which are easy to understand.
+
+**This are some basic python projects which are easy to understand.**
 
 Simply click on project to reach out to respective repository.
 
