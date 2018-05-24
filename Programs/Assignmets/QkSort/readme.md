@@ -5,6 +5,7 @@ Quicksort is a comparison sort, meaning that it can sort items of any type for w
 
 Mathematical analysis of quicksort shows that, on average, the algorithm takes O(n log n) comparisons to sort n items. In the worst case, it makes O(n2) comparisons, though this behavior is rare.
 
+> For more you [click here..](https://en.wikipedia.org/wiki/Quicksort)
 ___
 
 This program will read data from *.xml* file and sort the data.
