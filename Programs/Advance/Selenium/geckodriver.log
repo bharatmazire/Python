@@ -1,0 +1,180 @@
+1527182697335	geckodriver	INFO	geckodriver 0.20.1
+1527182697372	geckodriver	INFO	Listening on 127.0.0.1:51793
+1527182698311	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ehmmZvTLjI8i"
+
+(firefox:3701): Gtk-WARNING **: 22:54:58.348: Theme parsing error: gtk.css:27:35: Junk at end of value for background-color
+
+(firefox:3701): Gtk-WARNING **: 22:54:58.348: Theme parsing error: gtk.css:40:48: Junk at end of value for background-color
+
+(firefox:3701): Gtk-WARNING **: 22:54:58.348: Theme parsing error: gtk.css:48:46: Junk at end of value for background-color
+
+(firefox:3701): Gtk-WARNING **: 22:54:58.348: Theme parsing error: gtk.css:59:58: Junk at end of value for background-color
+
+(firefox:3701): Gtk-WARNING **: 22:54:58.348: Theme parsing error: gtk.css:66:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:3701): Gtk-WARNING **: 22:54:58.348: Theme parsing error: gtk.css:70:46: Junk at end of value for background-color
+
+(firefox:3701): Gtk-WARNING **: 22:54:58.348: Theme parsing error: gtk.css:77:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:3701): Gtk-WARNING **: 22:54:58.348: Theme parsing error: gtk.css:81:58: Junk at end of value for background-color
+
+(firefox:3701): Gtk-WARNING **: 22:54:58.348: Theme parsing error: gtk.css:123:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:3701): Gtk-WARNING **: 22:54:58.348: Theme parsing error: gtk.css:124:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:3701): Gtk-WARNING **: 22:54:58.349: Theme parsing error: gtk.css:156:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:3701): Gtk-WARNING **: 22:54:58.349: Theme parsing error: gtk.css:157:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:3701): Gtk-WARNING **: 22:54:58.349: Theme parsing error: gtk.css:177:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:3701): Gtk-WARNING **: 22:54:58.349: Theme parsing error: gtk.css:199:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(/usr/lib/firefox/firefox:3763): Gtk-WARNING **: 22:55:00.607: Theme parsing error: gtk.css:27:35: Junk at end of value for background-color
+
+(/usr/lib/firefox/firefox:3763): Gtk-WARNING **: 22:55:00.607: Theme parsing error: gtk.css:40:48: Junk at end of value for background-color
+
+(/usr/lib/firefox/firefox:3763): Gtk-WARNING **: 22:55:00.607: Theme parsing error: gtk.css:48:46: Junk at end of value for background-color
+
+(/usr/lib/firefox/firefox:3763): Gtk-WARNING **: 22:55:00.608: Theme parsing error: gtk.css:59:58: Junk at end of value for background-color
+
+(/usr/lib/firefox/firefox:3763): Gtk-WARNING **: 22:55:00.608: Theme parsing error: gtk.css:66:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(/usr/lib/firefox/firefox:3763): Gtk-WARNING **: 22:55:00.608: Theme parsing error: gtk.css:70:46: Junk at end of value for background-color
+
+(/usr/lib/firefox/firefox:3763): Gtk-WARNING **: 22:55:00.608: Theme parsing error: gtk.css:77:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(/usr/lib/firefox/firefox:3763): Gtk-WARNING **: 22:55:00.608: Theme parsing error: gtk.css:81:58: Junk at end of value for background-color
+
+(/usr/lib/firefox/firefox:3763): Gtk-WARNING **: 22:55:00.608: Theme parsing error: gtk.css:123:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(/usr/lib/firefox/firefox:3763): Gtk-WARNING **: 22:55:00.608: Theme parsing error: gtk.css:124:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(/usr/lib/firefox/firefox:3763): Gtk-WARNING **: 22:55:00.608: Theme parsing error: gtk.css:156:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(/usr/lib/firefox/firefox:3763): Gtk-WARNING **: 22:55:00.608: Theme parsing error: gtk.css:157:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(/usr/lib/firefox/firefox:3763): Gtk-WARNING **: 22:55:00.608: Theme parsing error: gtk.css:177:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(/usr/lib/firefox/firefox:3763): Gtk-WARNING **: 22:55:00.608: Theme parsing error: gtk.css:199:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+1527182701906	Marionette	INFO	Listening on port 39671
+1527182701988	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:3805): Gtk-WARNING **: 22:55:02.199: Theme parsing error: gtk.css:27:35: Junk at end of value for background-color
+
+(/usr/lib/firefox/firefox:3805): Gtk-WARNING **: 22:55:02.199: Theme parsing error: gtk.css:40:48: Junk at end of value for background-color
+
+(/usr/lib/firefox/firefox:3805): Gtk-WARNING **: 22:55:02.199: Theme parsing error: gtk.css:48:46: Junk at end of value for background-color
+
+(/usr/lib/firefox/firefox:3805): Gtk-WARNING **: 22:55:02.200: Theme parsing error: gtk.css:59:58: Junk at end of value for background-color
+
+(/usr/lib/firefox/firefox:3805): Gtk-WARNING **: 22:55:02.200: Theme parsing error: gtk.css:66:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(/usr/lib/firefox/firefox:3805): Gtk-WARNING **: 22:55:02.200: Theme parsing error: gtk.css:70:46: Junk at end of value for background-color
+
+(/usr/lib/firefox/firefox:3805): Gtk-WARNING **: 22:55:02.200: Theme parsing error: gtk.css:77:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(/usr/lib/firefox/firefox:3805): Gtk-WARNING **: 22:55:02.200: Theme parsing error: gtk.css:81:58: Junk at end of value for background-color
+
+(/usr/lib/firefox/firefox:3805): Gtk-WARNING **: 22:55:02.200: Theme parsing error: gtk.css:123:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(/usr/lib/firefox/firefox:3805): Gtk-WARNING **: 22:55:02.200: Theme parsing error: gtk.css:124:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(/usr/lib/firefox/firefox:3805): Gtk-WARNING **: 22:55:02.200: Theme parsing error: gtk.css:156:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(/usr/lib/firefox/firefox:3805): Gtk-WARNING **: 22:55:02.200: Theme parsing error: gtk.css:157:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(/usr/lib/firefox/firefox:3805): Gtk-WARNING **: 22:55:02.200: Theme parsing error: gtk.css:177:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(/usr/lib/firefox/firefox:3805): Gtk-WARNING **: 22:55:02.200: Theme parsing error: gtk.css:199:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+1527182726357	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1527182851014	geckodriver	INFO	geckodriver 0.20.1
+1527182851020	geckodriver	INFO	Listening on 127.0.0.1:59747
+1527182852031	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.gN7DotQqn6W4"
+
+(firefox:3906): Gtk-WARNING **: 22:57:32.073: Theme parsing error: gtk.css:27:35: Junk at end of value for background-color
+
+(firefox:3906): Gtk-WARNING **: 22:57:32.073: Theme parsing error: gtk.css:40:48: Junk at end of value for background-color
+
+(firefox:3906): Gtk-WARNING **: 22:57:32.073: Theme parsing error: gtk.css:48:46: Junk at end of value for background-color
+
+(firefox:3906): Gtk-WARNING **: 22:57:32.073: Theme parsing error: gtk.css:59:58: Junk at end of value for background-color
+
+(firefox:3906): Gtk-WARNING **: 22:57:32.073: Theme parsing error: gtk.css:66:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:3906): Gtk-WARNING **: 22:57:32.073: Theme parsing error: gtk.css:70:46: Junk at end of value for background-color
+
+(firefox:3906): Gtk-WARNING **: 22:57:32.073: Theme parsing error: gtk.css:77:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:3906): Gtk-WARNING **: 22:57:32.073: Theme parsing error: gtk.css:81:58: Junk at end of value for background-color
+
+(firefox:3906): Gtk-WARNING **: 22:57:32.073: Theme parsing error: gtk.css:123:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:3906): Gtk-WARNING **: 22:57:32.073: Theme parsing error: gtk.css:124:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:3906): Gtk-WARNING **: 22:57:32.073: Theme parsing error: gtk.css:156:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:3906): Gtk-WARNING **: 22:57:32.073: Theme parsing error: gtk.css:157:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:3906): Gtk-WARNING **: 22:57:32.073: Theme parsing error: gtk.css:177:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:3906): Gtk-WARNING **: 22:57:32.073: Theme parsing error: gtk.css:199:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(/usr/lib/firefox/firefox:3970): Gtk-WARNING **: 22:57:33.993: Theme parsing error: gtk.css:27:35: Junk at end of value for background-color
+
+(/usr/lib/firefox/firefox:3970): Gtk-WARNING **: 22:57:33.993: Theme parsing error: gtk.css:40:48: Junk at end of value for background-color
+
+(/usr/lib/firefox/firefox:3970): Gtk-WARNING **: 22:57:33.993: Theme parsing error: gtk.css:48:46: Junk at end of value for background-color
+
+(/usr/lib/firefox/firefox:3970): Gtk-WARNING **: 22:57:33.993: Theme parsing error: gtk.css:59:58: Junk at end of value for background-color
+
+(/usr/lib/firefox/firefox:3970): Gtk-WARNING **: 22:57:33.993: Theme parsing error: gtk.css:66:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(/usr/lib/firefox/firefox:3970): Gtk-WARNING **: 22:57:33.993: Theme parsing error: gtk.css:70:46: Junk at end of value for background-color
+
+(/usr/lib/firefox/firefox:3970): Gtk-WARNING **: 22:57:33.993: Theme parsing error: gtk.css:77:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(/usr/lib/firefox/firefox:3970): Gtk-WARNING **: 22:57:33.993: Theme parsing error: gtk.css:81:58: Junk at end of value for background-color
+
+(/usr/lib/firefox/firefox:3970): Gtk-WARNING **: 22:57:33.994: Theme parsing error: gtk.css:123:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(/usr/lib/firefox/firefox:3970): Gtk-WARNING **: 22:57:33.994: Theme parsing error: gtk.css:124:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(/usr/lib/firefox/firefox:3970): Gtk-WARNING **: 22:57:33.994: Theme parsing error: gtk.css:156:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(/usr/lib/firefox/firefox:3970): Gtk-WARNING **: 22:57:33.994: Theme parsing error: gtk.css:157:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(/usr/lib/firefox/firefox:3970): Gtk-WARNING **: 22:57:33.994: Theme parsing error: gtk.css:177:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(/usr/lib/firefox/firefox:3970): Gtk-WARNING **: 22:57:33.994: Theme parsing error: gtk.css:199:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+1527182855062	Marionette	INFO	Listening on port 36205
+1527182855145	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:4010): Gtk-WARNING **: 22:57:35.259: Theme parsing error: gtk.css:27:35: Junk at end of value for background-color
+
+(/usr/lib/firefox/firefox:4010): Gtk-WARNING **: 22:57:35.259: Theme parsing error: gtk.css:40:48: Junk at end of value for background-color
+
+(/usr/lib/firefox/firefox:4010): Gtk-WARNING **: 22:57:35.259: Theme parsing error: gtk.css:48:46: Junk at end of value for background-color
+
+(/usr/lib/firefox/firefox:4010): Gtk-WARNING **: 22:57:35.260: Theme parsing error: gtk.css:59:58: Junk at end of value for background-color
+
+(/usr/lib/firefox/firefox:4010): Gtk-WARNING **: 22:57:35.260: Theme parsing error: gtk.css:66:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(/usr/lib/firefox/firefox:4010): Gtk-WARNING **: 22:57:35.260: Theme parsing error: gtk.css:70:46: Junk at end of value for background-color
+
+(/usr/lib/firefox/firefox:4010): Gtk-WARNING **: 22:57:35.260: Theme parsing error: gtk.css:77:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(/usr/lib/firefox/firefox:4010): Gtk-WARNING **: 22:57:35.260: Theme parsing error: gtk.css:81:58: Junk at end of value for background-color
+
+(/usr/lib/firefox/firefox:4010): Gtk-WARNING **: 22:57:35.260: Theme parsing error: gtk.css:123:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(/usr/lib/firefox/firefox:4010): Gtk-WARNING **: 22:57:35.260: Theme parsing error: gtk.css:124:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(/usr/lib/firefox/firefox:4010): Gtk-WARNING **: 22:57:35.261: Theme parsing error: gtk.css:156:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(/usr/lib/firefox/firefox:4010): Gtk-WARNING **: 22:57:35.261: Theme parsing error: gtk.css:157:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(/usr/lib/firefox/firefox:4010): Gtk-WARNING **: 22:57:35.261: Theme parsing error: gtk.css:177:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(/usr/lib/firefox/firefox:4010): Gtk-WARNING **: 22:57:35.261: Theme parsing error: gtk.css:199:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
